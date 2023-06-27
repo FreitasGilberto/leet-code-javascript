@@ -27,3 +27,6 @@ Link: https://twitter.com/freitasbernaez/status/1671637413838372865?s=20
 
 ## 9. Find the Index of the First Occurrence in a String
 Link: https://twitter.com/freitasbernaez/status/1672608806495289344?s=20
+
+## 10. Length of Last Word
+Link: https://leetcode.com/problems/length-of-last-word/
